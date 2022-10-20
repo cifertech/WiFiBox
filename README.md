@@ -4,7 +4,7 @@
   <h1>WiFiBox</h1>
    
   <p>
-    Packet Monitor with Waterfall Plot
+    Packet Monitor with Waterfall Plot 
   </p>
    
 
@@ -137,21 +137,21 @@ After uploading the code, According to the channel selected by you, the packet m
 </a>
 
 
-<!-- License -->
+<!-- License --> 
 ## :warning: License
-
+ 
 Distributed under the MIT License. See LICENSE.txt for more information.
 
 
 <!-- Contact -->
-## :handshake: Contact
+## :handshake: Contact 
 
 CiferTech - [@twitter](https://twitter.com/cifertech1) - CiferTech@gmali.com
 
 Project Link: [https://github.com/cifertech/WiFiBox](https://github.com/cifertech/WiFiBox)
 
 <!-- Acknowledgments -->
-## :gem: Acknowledgements
+## :gem: Acknowledgements 
 
  - [802.11 Mgmt:Beacon Frame](https://mrncciew.com/2014/10/08/802-11-mgmt-beacon-frame/)
  - [spacehuhn](https://github.com/spacehuhn)
