@@ -132,8 +132,8 @@ After uploading the code, According to the channel selected by you, the packet m
 <!-- Contributing -->
 ## :wave: Contributing
 
-<a href="https://github.com/cifertech/nRF-jammer/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=cifertech/nRF-jammer" />
+<a href="https://github.com/cifertech/WiFiBox/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=cifertech/WiFiBox" />
 </a>
 
 
