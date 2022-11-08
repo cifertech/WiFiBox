@@ -83,8 +83,8 @@ Make the connections according to the table and schematic below.
 | 14 | CS   |
 | 33 | RST  |
 | 27 | DC   |
-| 13 | SCLK |
-| 11 | MOSI |
+| 18 | CLK  |
+| 23 | DIN  |
 | 5V | VCC  |
 | 3V3 | LED |
 | GND | GND |
