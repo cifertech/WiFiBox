@@ -52,7 +52,7 @@ The traffic values in the channel specified from 1 to 14 are received and displa
 ### :camera: Pictures
 
 <div align="center"> 
-  <img src="https://user-images.githubusercontent.com/62047147/196050256-2fba0b5d-687d-44f7-a57d-353d09025fcf.jpg" alt="screenshot" width="Auto" height="700" />
+  <img src="https://user-images.githubusercontent.com/62047147/200699083-5ff70b82-0381-4837-a946-f034d98c0530.jpg" alt="screenshot" width="Auto" height="Auto" />
 </div>
 
 
@@ -71,6 +71,8 @@ We use st7735 Tft Lcd with ESP32. Also, I used a MicroSwitch in order to change 
 - TFT Lcd st7735
 - ESP32
 - Micro Switch
+
+<img src="https://user-images.githubusercontent.com/62047147/200698578-e65a4548-1901-4649-9da5-12fc630c9a4b.jpg" alt="screenshot" width="Auto" height="300" />
 
 <!-- Schematic -->
 ### :electric_plug: Schematic
