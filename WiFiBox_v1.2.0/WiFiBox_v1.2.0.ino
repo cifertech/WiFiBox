@@ -135,6 +135,23 @@ void setup() {
       tft.setRotation(0);
       tft.fillScreen(ST7735_BLACK);
   
+      tft.setTextWrap(false);
+      tft.setCursor(10, 60);
+      tft.setTextColor(WHITE);
+      tft.setTextSize(1);
+      tft.println("WiFiBox by");
+      tft.setCursor(10, 70);
+      tft.setTextColor(WHITE);
+      tft.setTextSize(2);
+      tft.println("CiferTech");
+      tft.setCursor(45, 120);
+      tft.setTextColor(WHITE);
+      tft.setTextSize(1);
+      tft.println("v1.2.0");
+  
+      delay(3000);
+      tft.fillScreen(ST7735_BLACK);
+  
   sampling_period_us = round(1000000*(1.0/samplingFrequency));
 
   for (int i = 0; i < 32; i++) {
